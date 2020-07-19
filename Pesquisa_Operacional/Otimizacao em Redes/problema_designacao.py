@@ -1,4 +1,4 @@
-from pulp import *
+from pulp import LpVariable, LpProblem, LpMinimize, LpStatus,  lpSum, value
 
 # Variaveis do Problema
 times = [0, 1, 2, 3, 4]

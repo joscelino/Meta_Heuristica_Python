@@ -51,7 +51,7 @@ print()
 print(f'O custo {analise} eh de: R$ {value(model.objective)}.')
 
 print()
-print("Quantidades a serem produzidas)
+print("Quantidades a serem produzidas")
 for m in maquinas:
     print(f'{var[m]}: {value(var[m])}')
     print(f'{var2[m]}: {value(var2[m])}')

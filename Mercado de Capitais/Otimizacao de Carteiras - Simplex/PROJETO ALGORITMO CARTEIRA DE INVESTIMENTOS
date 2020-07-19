@@ -1,0 +1,29 @@
+PROJETO ALGORITMO CARTEIRA DE INVESTIMENTOS
+
+1. 		Definir ATIVOS 													-	OK
+2. 		Importar dados historicos via API Yahoo Finance					- 	OK
+3. 		Efetuar calculo dos retornos historicos e volatilidade
+4. 		Aplicar Markowitz
+5. 		Aplicar Simulacao de Monte Carlo
+6. 		Aplicar Metodo Simplex
+7. 		Aplicar Rede Neural
+8. 		Aplicar Criterio de Kelly
+9. 		Calculo do expoente de Hurst
+10. 	Analise Final
+11. 	Definicao da Carteira
+12. 	Integracao com Metatrader*
+
+###############################################################
+ATIVOS
+###############################################################
+
+PETR4.SA
+VALE3.SA
+BBDC4.SA
+ITUB4.SA
+VVAR3.SA
+CSNA3.SA
+UGPA3.SA
+MGLU3.SA
+CIEL3.SA
+RAIL3.SA
