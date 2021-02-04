@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import Simulated_Annealing
+from Scripts import Simulated_Annealing
 
 dormitorios = ['SÃo Paulo', 'Flamengo', 'Coritiba', 'Cruzeiro', 'Fortaleza']
 

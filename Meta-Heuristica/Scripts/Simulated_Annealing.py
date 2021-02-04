@@ -13,7 +13,7 @@ pessoas = [('Amanda', 'CWB'),
 destino = 'GRU'
 
 voos = {}
-for linha in open('voos.txt'):
+for linha in open('../dados/voos.txt'):
     #print(linha)
     _origem, _destino, _saida, _chegada, _preco = linha.split(',')
     voos.setdefault((_origem, _destino), [])
